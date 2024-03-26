@@ -1,6 +1,4 @@
-[submodule "hugo-PaperModX"]
-	path = hugo-PaperModX
-	url = https://github.com/reorx/hugo-PaperModX.git
+
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/reorx/hugo-PaperModX.git
